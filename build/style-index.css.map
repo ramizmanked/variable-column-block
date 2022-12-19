@@ -1,0 +1,1 @@
+{"version":3,"file":"./style-index.css","mappings":";;;AACE;EACD;EACA;AAAD,C","sources":["webpack://variable-column-block/./src/style.scss"],"sourcesContent":[".wp-block-ramizmanked-variable-column-block {\n  .vcb-block-wrapper {\n\tdisplay: flex;\n\tgap: 1.5rem;\n  }\n}\n"],"names":[],"sourceRoot":""}
