@@ -320,7 +320,7 @@ module.exports = window["wp"]["i18n"];
   \************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"$schema":"https://schemas.wp.org/trunk/block.json","apiVersion":2,"name":"ramizmanked/variable-column-block","version":"1.2.0","title":"Variable Column Block","category":"design","icon":"columns","description":"Allows you to add variable width block into your post/page.","supports":{"html":false},"textdomain":"variable-column-block","editorScript":"file:./index.js","editorStyle":"file:./index.css","style":"file:./style-index.css","attributes":{"paragraphLeft":{"type":"string","selector":"p"},"paragraphRight":{"type":"string","selector":"p"},"columnWidth":{"type":"number","default":50}}}');
+module.exports = JSON.parse('{"$schema":"https://schemas.wp.org/trunk/block.json","apiVersion":2,"name":"ramizmanked/variable-column-block","version":"1.2.1","title":"Variable Column Block","category":"design","icon":"columns","description":"Allows you to add variable width block into your post/page.","supports":{"html":false},"textdomain":"variable-column-block","editorScript":"file:./index.js","editorStyle":"file:./index.css","style":"file:./style-index.css","attributes":{"paragraphLeft":{"type":"string","selector":"p"},"paragraphRight":{"type":"string","selector":"p"},"columnWidth":{"type":"number","default":50}}}');
 
 /***/ })
 

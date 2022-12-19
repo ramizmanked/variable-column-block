@@ -4,7 +4,7 @@
  * Description:       Allows you to add variable width block into your post/page.
  * Requires at least: 5.8
  * Requires PHP:      7.4
- * Version:           1.2.0
+ * Version:           1.2.1
  * Author:            Ramiz Manked
  * License:           GPLv3
  * License URI:       https://www.gnu.org/licenses/gpl-3.0.html
