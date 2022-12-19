@@ -2,7 +2,7 @@
 Contributors:      The WordPress Contributors
 Tags:              block
 Tested up to:      6.1.1
-Stable tag:        1.2.0
+Stable tag:        trunk
 License:           GPLv3
 License URI:       https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -43,6 +43,9 @@ To resize column width, you just need to select 'Variable Column' block and drag
 4. Here is the output of 'Variable Column' block.
 
 == Changelog ==
+
+= 1.2.1 =
+* Fix - Update plugin assets
 
 = 1.2.0 =
 * Fix - broken block due to recent WordPress core component updates.
