@@ -44,6 +44,9 @@ To resize column width, you just need to select 'Variable Column' block and drag
 
 == Changelog ==
 
+= 1.2.3 =
+* Update plugin assets.
+
 = 1.2.2 =
 * Change readme.txt
 
