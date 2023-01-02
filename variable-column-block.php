@@ -2,9 +2,9 @@
 /**
  * Plugin Name:       Variable Column Block
  * Description:       Allows you to add variable width block into your post/page.
- * Requires at least: 5.8
- * Requires PHP:      7.4
- * Version:           1.2.2
+ * Requires at least: 6.1
+ * Requires PHP:      8.0
+ * Version:           1.2.3
  * Author:            Ramiz Manked
  * License:           GPLv3
  * License URI:       https://www.gnu.org/licenses/gpl-3.0.html
